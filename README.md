@@ -16,13 +16,17 @@ For instructions on installing Shell in a Box as a Docker container, refer to th
 - [Docker extension](https://www.plesk.com/extensions/docker/)
 - A Shell in a Box instance
 
-**Note:** While Docker is not required (you can install Shell in a Box on the host), the instructions related to this extension describe how to use it with a Shell in a Box docker instance.
+**Note:** While Docker is not required (you can install Shell in a Box locally or on a remote server), the [instructions](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) related to this extension describe how to use it with a Shell in a Box docker instance.
 
 ### Installation
+
+#### Summary
 
 1. Install a Shell in a Box instance.
 2. Download and install this extension.
 3. Specify Shell in a Box URL in the extension settings.
+
+See the [wiki](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) for detailed steps.
 
 ### Contributing
 
@@ -30,7 +34,7 @@ There are several ways that you can contribute:
 
 1. [Report bugs](https://github.com/cloudverve/plesk-terminal-icon-ext/issues) that you find.
 2. Contribute improvements.
-3. Provide translations.
+3. Provide [translations](https://github.com/cloudverve/plesk-terminal-icon-ext/tree/master/htdocs/plib/resources/locales/).
 
 ## Change Log
 
@@ -42,6 +46,8 @@ Release changes are noted on the [Releases](https://github.com/cloudverve/plesk-
 
 ## Screenshots
 
-![Terminal Window](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/_meta/screenshots/1.png)
+![Terminal Window](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/_meta/screenshots/2.png)
 
-![Extension Settings](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/_meta/screenshots/2.png)
+![Terminal (SSH) Link](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/_meta/screenshots/1.png)
+
+![Extension Settings](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/_meta/screenshots/3.png)
