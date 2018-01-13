@@ -1,0 +1,48 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+**.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Vim generated files #
+#######################
+*.un~
+
+# SASS #
+########
+**/.sass-cache
+**/.sass-cache/*
+**/.map
+*.scssc
+config.rb
+
+# Package Managers #
+####################
+!src/js/vendor/
+yarn.lock
+package-lock.json
+composer.lock
+
+# Bower #
+#########
+assets/components/
+
+# Codekit #
+###########
+/codekit-config.json
+*.codekit
+**.codekit-cache/*
+
+# Development #
+###############
+*.map
+*.bak
+node_modules
+vendor/
