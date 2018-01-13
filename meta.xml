@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>terminal-icon</id>
+  <name>Terminal Icon</name>
+  <description>Adds a terminal icon to the user's control panel for web-based SSH access via Shell in a Box.</description>
+  <category>client_tool</category>
+  <url>https://github.com/cloudverve/plesk-terminal-icon-ext</url>
+  <help_url>https://github.com/cloudverve/plesk-terminal-icon-ext/wiki/</help_url>
+  <support_url>https://github.com/cloudverve/plesk-terminal-icon-ext/issues/</support_url>
+  <version>1.0</version>
+  <release>0</release>
+  <vendor>CloudVerve, LLC</vendor>
+  <plesk_min_version>17.0.17</plesk_min_version>
+</module>

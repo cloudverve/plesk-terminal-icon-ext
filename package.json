@@ -1,0 +1,24 @@
+{
+  "name": "terminal-icon",
+  "author": "Daniel M. Hendricks",
+  "license": "GPL-2.0",
+  "version": "1.0.0",
+  "scripts": {
+    "zip": "zip -q -r ../$npm_package_name.zip * -x 'node_modules/*' '.git*' './src/*' './.*' './package*.*' './composer.*' './*.bak' './bower.json' './gulpfile.js' "
+  },
+  "devDependencies": {
+    "gulp": "^4.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-line-ending-corrector": "^1.0.2",
+    "gulp-notify": "^3.1.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifycss": "^1.0.9",
+    "gulp-concat": "^2.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloudverve/plesk-terminal-icon-ext.git"
+  }
+}
