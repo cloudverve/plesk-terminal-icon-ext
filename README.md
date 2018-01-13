@@ -34,7 +34,7 @@ There are several ways that you can contribute:
 
 1. [Report bugs](https://github.com/cloudverve/plesk-terminal-icon-ext/issues) that you find.
 2. Contribute improvements.
-3. Provide [translations](https://github.com/cloudverve/plesk-terminal-icon-ext/tree/master/htdocs/plib/resources/locales/).
+3. Provide [translations](https://github.com/cloudverve/plesk-terminal-icon-ext/tree/master/plib/resources/locales).
 
 ## Change Log
 
