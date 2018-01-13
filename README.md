@@ -23,7 +23,7 @@ For instructions on installing Shell in a Box as a Docker container, refer to th
 #### Summary
 
 1. Install a Shell in a Box instance.
-2. Download and install this extension.
+2. [Download](https://github.com/cloudverve/plesk-terminal-icon-ext/releases) and install this extension.
 3. Specify Shell in a Box URL in the extension settings.
 
 See the [wiki](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) for detailed steps.
