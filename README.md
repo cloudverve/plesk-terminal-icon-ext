@@ -1,4 +1,4 @@
-[![Vendor](https://img.shields.io/badge/author-CloudVerve%2C%20LLC-lightgrey.svg?colorB=9900cc&label=vendor )](https://2lab.net)
+[![Vendor](https://img.shields.io/badge/author-CloudVerve%2C%20LLC-lightgrey.svg?colorB=AE2A21&label=vendor )](https://2lab.net)
 [![GitHub License](https://img.shields.io/github/license/cloudverve/plesk-terminal-icon-ext.svg)](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/LICENSE)
 [![Latest Release](https://img.shields.io/github/release/cloudverve/plesk-terminal-icon-ext.svg)](https://github.com/cloudverve/plesk-terminal-icon-ext/releases)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/danielhendricks)
@@ -22,10 +22,10 @@ For instructions on installing Shell in a Box as a Docker container, refer to th
 
 ### Install from Distribution ZIP
 
-This is the easiest method to install the plugin.
+This is the easiest method to install the extension.
 
 1. [Install Shell in a Box](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki#add-shell-in-a-box-docker-container)
-2. **[Download the distribution ZIP](https://github.com/cloudverve/plesk-terminal-icon-ext/releases)** of this extension and install. **DO NOT** download the _source_ ZIP or clone by itself - it will not work without doing some extra steps (see below).
+2. **[Download the distribution ZIP](https://github.com/cloudverve/plesk-terminal-icon-ext/releases/download/1.0.0/terminal-icon-1.0-0.zip)** of this extension and install. **DO NOT** download the _source_ ZIP or clone by itself - it will not work without doing some extra steps (see below).
 3. Enter your Shell in a Box URL in the [extension settings](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki#install-and-configure-terminal-icon-extension).
 
 See the [wiki](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) for detailed instructions.
