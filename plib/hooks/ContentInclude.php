@@ -9,9 +9,4 @@ class Modules_TerminalIcon_ContentInclude extends pm_Hook_ContentInclude
     ];
   }
 
-  public function getJsOnReadyContent()
-  {
-    return 'PleskExt.TerminalIcon.init();';
-  }
-
 }

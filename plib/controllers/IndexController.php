@@ -36,7 +36,7 @@ class IndexController extends pm_Controller_Action {
 
     if ($this->getRequest()->isPost() && $form->isValid($this->getRequest()->getPost())) {
       pm_Settings::set( 'terminal_url', $form->getValue( 'terminal_url' ) );
-      pm_Settings::set( 'terminal_icon_location', $form->getValue( 'terminal_icon_location' ) );
+      pm_Settings::set( 'location_sidebar', $form->getValue( 'location_sidebar' ) );
 
       $this->_status->addMessage( 'info', $this->lmsg( 'settingsDataSaved' ) );
       $this->_helper->json( array( 'redirect' => pm_Context::getBaseUrl() ) );
