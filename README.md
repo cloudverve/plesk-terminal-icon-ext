@@ -10,7 +10,7 @@ This is a simple extension that adds an icon to the user's control panel for web
 
 For instructions on installing Shell in a Box as a Docker container, refer to the [documentation](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki).
 
-### Requirements
+## Requirements
 
 - [Plesk](https://www.plesk.com/) 17.0.17 or higher
 - [Docker extension](https://www.plesk.com/extensions/docker/)
@@ -18,9 +18,9 @@ For instructions on installing Shell in a Box as a Docker container, refer to th
 
 **Note:** While Docker is not required (you can install Shell in a Box locally or on a remote server), the [instructions](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) related to this extension describe how to use it with a Shell in a Box docker instance.
 
-### Installation
+## Installation
 
-#### Install from Distribution ZIP
+### Install from Distribution ZIP
 
 This is the easiest method to install the plugin.
 
@@ -30,7 +30,7 @@ This is the easiest method to install the plugin.
 
 See the [wiki](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) for detailed instructions.
 
-#### Install from Source
+### Install from Source
 
 If you prefer to install from source:
 
@@ -46,7 +46,7 @@ npm run zip
 
 The last command will create a file named `terminal-icon-{version}.zip` in the _parent_ directory.
 
-### Contributing
+## Contributing
 
 There are several ways that you can contribute:
 
