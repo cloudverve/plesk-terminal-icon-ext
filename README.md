@@ -1,7 +1,8 @@
-[![Vendor](https://img.shields.io/badge/author-CloudVerve%2C%20LLC-lightgrey.svg?colorB=AE2A21&label=vendor )](https://2lab.net)
+[![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=file-icon-vectors)
 [![GitHub License](https://img.shields.io/github/license/cloudverve/plesk-terminal-icon-ext.svg)](https://raw.githubusercontent.com/cloudverve/plesk-terminal-icon-ext/master/LICENSE)
 [![Latest Release](https://img.shields.io/github/release/cloudverve/plesk-terminal-icon-ext.svg)](https://github.com/cloudverve/plesk-terminal-icon-ext/releases)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/danielhendricks)
+[![Analytics](https://ga-beacon.appspot.com/UA-67333102-2/cloudverve/plesk-terminal-icon-ext?flat)](https://ga-beacon.appspot.com/?utm_source=github.com&utm_medium=campaign&utm_content=link&utm_campaign=plesk-terminal-icon-ext)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/cloudverve/plesk-terminal-icon-ext.svg?style=social)](https://twitter.com/danielhendricks)
 
 # Terminal Icon Extension for Plesk
@@ -16,7 +17,7 @@ For instructions on installing Shell in a Box as a Docker container, refer to th
 - [Docker extension](https://www.plesk.com/extensions/docker/)
 - A Shell in a Box instance
 
-**Note:** While Docker is not required (you can install Shell in a Box locally or on a remote server), the [instructions](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) related to this extension describe how to use it with a Shell in a Box docker instance.
+**Note:** While Docker is not required (you can install Shell in a Box locally or on a remote server), the [instructions](https://github.com/cloudverve/plesk-terminal-icon-ext/wiki) related to this extension describe how to use it with a Shell in a Box Docker instance.
 
 ## Installation
 
